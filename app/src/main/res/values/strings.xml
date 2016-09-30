@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="search">Search</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="no_internet">Sorry no internet</string>
+    <string name="empty_search">Need something to search</string>
+    <string name="no_book_info">No Book Information Available. Try Again.</string>
+</resources>
